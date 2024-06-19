@@ -21,6 +21,22 @@ Here's what I used:
 - programming language: Python, shell scripts
 - webapp: Flask, Jinja2 templating, bootstrap
 
+
+<br/><br/>
+# Videos
+I created these clips to show our marketing team (at their request) more about the demo. They wanted to take these clips, watch and share them internally and then produce higher quality production videos. These were meant to serve as just a jumping off point for their own creativity, but I was going to be the start :).
+
+We never got a chance to do it, but it would have been fun!<br/>
+[1. Video Message Exploring Rockset with Cool Mountain](https://youtu.be/msWn6PqsULU)<br/>
+[2. Cool Mountain Biking Next-Gen Trip Planner](https://youtu.be/e99vXPXdafQ)<br/>
+[3. Data Flow from Kafka to Rockset](https://youtu.be/TaWbKlpotkQ)<br/>
+[4. Similarity Search](https://youtu.be/h7dSqQSCJfw)<br/>
+[5. Fun and Interactive Choose-Your-Own-Adventure Demo](https://youtu.be/2ewCWl2kT6Y)<br/>
+[6. Trip Planner Option 1](https://youtu.be/XNzFU4pdmWg)<br/>
+[7. Trip Planner Option 2](https://youtu.be/WPg-LJhAopk)<br/>
+[6. What's next?](https://youtu.be/GVEYBhf0Lwc)
+
+
 <br/><br/>
 # Splash Screen
 I am a representative of Cool Mountain Biking Incorporated. Or as Dun & Bradstreet list, doing business as Cool MTB Inc.
