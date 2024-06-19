@@ -1,7 +1,10 @@
 # mtb-agi-rag-demo
 Why not do a demo on something you are interested in!
 
-Unfortunately I don't have it running live at the moment, but you can watch some videos and check out screenshots below.
+| | |
+|-|-|
+| <img width="688" alt="image" src="https://github.com/scottsappen/mtb-agi-rag-demo/assets/2436969/63755df1-c559-4e87-b26b-e7db8557c26c"> | Unfortunately I don't have it running live at the moment, but you can watch some videos and check out screenshots below. I did a live demo in Austin to a host of account executives and sales engineers. This was my "You win a car. And you win a car." moment. |
+
 
 <br/><br/>
 # Why do this?
