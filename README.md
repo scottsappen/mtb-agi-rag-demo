@@ -1,5 +1,5 @@
 # mtb-agi-rag-demo
-Why not do a demo on something you are interested in!
+Why not build a mountain biking trip planning app to use as a demo!
 
 | | |
 |-|-|
