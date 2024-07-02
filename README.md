@@ -19,7 +19,7 @@ Here's what I used:
 - large language models: OpenAI
 - parallel processing: LangChain
 - programming language: Python, shell scripts
-- webapp: Flask, Jinja2 templating, bootstrap
+- webapp: Flask, Jinja2 templating, bootstrap, JavaScript/AJAX, HTML, CSS
 
 
 <br/><br/>
